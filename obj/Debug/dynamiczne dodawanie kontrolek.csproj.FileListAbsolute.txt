@@ -1,0 +1,10 @@
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\bin\Debug\dynamiczne dodawanie kontrolek.exe.config
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\bin\Debug\dynamiczne dodawanie kontrolek.exe
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\bin\Debug\dynamiczne dodawanie kontrolek.pdb
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne dodawanie kontrolek.csprojResolveAssemblyReference.cache
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne_dodawanie_kontrolek.Glowne.resources
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne_dodawanie_kontrolek.Properties.Resources.resources
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne dodawanie kontrolek.csproj.GenerateResource.Cache
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne dodawanie kontrolek.csproj.CoreCompileInputs.cache
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne dodawanie kontrolek.exe
+E:\Projekty\C#\Małe\dynamiczne dodawanie kontrolek\dynamiczne dodawanie kontrolek\obj\Debug\dynamiczne dodawanie kontrolek.pdb
